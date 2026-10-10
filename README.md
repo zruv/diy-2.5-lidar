@@ -105,4 +105,4 @@ For spaces bigger than one pan sweep can cover, register multiple scan positions
 
 ## License
 
-MIT (or your preference — add a LICENSE file before making the repo public if you want this enforced)
+MIT
