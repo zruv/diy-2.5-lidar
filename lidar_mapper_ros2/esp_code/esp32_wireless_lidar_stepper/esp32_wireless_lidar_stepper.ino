@@ -4,9 +4,9 @@
 #include <HardwareSerial.h>
 
 // ---------- WiFi config — EDIT THESE ----------
-const char* WIFI_SSID = "Krish";
-const char* WIFI_PASSWORD = "bhandara";
-const char* LAPTOP_IP = "172.20.10.3";
+const char* WIFI_SSID = "zero";
+const char* WIFI_PASSWORD = "Abcdefgh@0";
+const char* LAPTOP_IP = "192.168.1.9";
 const int UDP_PORT = 5005;
 
 WiFiUDP udp;

@@ -68,3 +68,4 @@ echo "  ros2 launch lidar_mapper_ros2 lidar_mapper.launch.py mode:=wireless"
 echo
 echo "Note: this script does NOT flash the ESP32. Flash esp32_firmware/ separately"
 echo "via the Arduino IDE — see README.md for details."
+

@@ -6,7 +6,7 @@ import threading
 import time
 import numpy as np
 
-ESP32_IP = "172.20.10.2"   # <-- set to whatever your ESP32 prints on boot
+ESP32_IP = "192.168.1.4"   # <-- set to whatever your ESP32 prints on boot
 STATUS_URL = f"http://{ESP32_IP}/status"
 POLL_INTERVAL = 0.05   # 20Hz, matches your original joint_states rate
 

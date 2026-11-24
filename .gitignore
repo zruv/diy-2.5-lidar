@@ -1,0 +1,24 @@
+# ROS 2 build folders
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
+# PlatformIO
+.pio/
+.vscode/
+get-platformio.py
+
+# Virtual environments & local secrets
+venv/
+.venv/
+secrets.h
+config.local.py
+
+# OS generated files
+.DS_Store
